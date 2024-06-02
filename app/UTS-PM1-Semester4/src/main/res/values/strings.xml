@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">desc produk</string>
+
+        //TJIWI
+    <string name="tjiwikomp">
+    \nKalsium Hipoklorit dengan rumus kimia Ca (OCl) 2 .
+    \nMemiliki kadar 60-65% \nlarut dalam air dan bersifat
+higroskopis (menyerap air).</string>
+
+        <string name="tjiwiDesc">Penghilang bau apek
+Pemutih pakaian,Disinfektan air,Penjernih air,Menjaga kestabilan ph dan cl air
+            \nKaporit granular biasa di gunakan untuk pengolahan air atau water treatment, antara lain:
+\nDi bidang perhotelan dan taman wisata air , seperti kolam renang dan water boom
+Di bidang industri , untuk pengolahan air
+PDAM ,</string>
+
+    //Karbon Aktif
+
+    <string name="karbonKomp">Karbon aktif merupakan bentuk arang yang diaktifkan secara kimiawi dengan pori-pori yang sangat kecil, memberikan luas permukaan yang besar untuk menyerap zat-zat organik, gas-gas beracun, dan partikel-partikel halus. Masala</string>
+
+    <string name="karbonDesc">Digunakan sebagai penjernih air untuk menghilangkan bau, rasa, warna, dan zat-zat organik yang terlarut dalam air.</string>
+
+    //Polielektrolit
+
+    <string name="poliKomp">Senyawa polielektrolit anorganik atau organik, seperti poliakrilamida atau poliakrilat, yang larut dalam air dan membentuk ikatan dengan partikel-partikel kecil dalam air.</string>
+    <string name="poliDesc"> Digunakan dalam proses koagulasi-flokulasi pada pengolahan air limbah untuk membantu menggumpalkan partikel-partikel halus sehingga mudah diendapkan.</string>
+
+    //Klorin
+
+    <string name="klorinKomp">M Gas beracun klorin (Cl2) atau senyawa klorin seperti hipoklorit (ClO-) yang larut dalam air.</string>
+    <string name="klorinDesc">Digunakan sebagai disinfektan untuk membunuh mikroorganisme patogen seperti bakteri, virus, dan alga yang berbahaya dalam air minum atau air kolam renang.</string>
+
+    //Zeolit
+
+    <string name="zeolitKomp">Mineral alam yang terbentuk dari kerangka silika-alumina dengan pori-pori berukuran mikro atau nano.</string>
+    <string name="zeolitDesc">Digunakan sebagai adsorben untuk menyerap ion-ion logam berat dan senyawa-senyawa organik dalam air, sehingga membantu membersihkan air dari kontaminan-kontaminan yang berbahaya.</string>
+
+    //Aluminium Sulfat (Alum)
+
+    <string name="aluKomp">Senyawa kimia anorganik yang terdiri dari aluminium sulfat hidrat.</string>
+    <string name="aluDesc">Digunakan sebagai koagulan dalam proses pengolahan air untuk membantu menggumpalkan partikel-partikel halus dan membantu dalam pengendapan zat-zat terlarut dalam air.</string>
+
+    //Ozon
+
+    <string name="ozonKomp">Gas O3 (ozon) yang dihasilkan melalui proses ozonisasi udara atau oksigen.</string>
+    <string name="ozonDesc">Digunakan sebagai disinfektan alternatif yang kuat dalam pengolahan air untuk menghilangkan bau, rasa, warna, dan mikroorganisme patogen dalam air.</string>
+
+</resources>
